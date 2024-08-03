@@ -2,6 +2,8 @@
 
 Welcome to the **Explore Different Classifier ML App** machine learning project repository! This project focuses on exploring and comparing various classification algorithms using machine learning techniques and providing a simple web-based application for users to interact with.
 
+![7](https://github.com/user-attachments/assets/8f164bc9-d038-4d5a-8f47-2511dc8dcd5f)
+
 ## 📋 Contents
 
 - [Introduction](#introduction)
